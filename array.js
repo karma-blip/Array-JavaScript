@@ -30,7 +30,7 @@ const word = "renniw";
 console.log([...word].sort().join("")); 
 
 //Inserting 'tomato' at index 5
-const fruits = ["Apple", "Banana", "Cherry", "Date", "Elderberry", "Fig", "Grape", "Honeydew", "Ice Apple", "Jackfruit"];
+const fruits = ["Apple", "Banana", "Cherry", "Date", "Guava", "Fig", "Grape", "Watermelon", "Mangos", "Orange"];
 fruits.splice(5, 0, "Tomato");
 console.log(fruits); 
 
